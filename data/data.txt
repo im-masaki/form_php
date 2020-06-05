@@ -1,0 +1,4 @@
+test,test@test.com,ここに感想を記入してください。,60代以上,学生ではありません
+test,test@test.com,wtf,30代,学生です
+<script>alert("A");</script>,<script>alert("A");</script>,ここに感想を記入してください。,20代,学生ですtest,test@test.com,ここに感想を記入してください。,40代,学生ではありません
+test2,test2@test.com,test,30代,学生ではありません
